@@ -165,6 +165,6 @@
 https://github.com/cujanovic/Open-Redirect-Payloads
 
 
-**Open Redirect Paramters** by @fuzzdb-project
+**Open Redirect Parameters** by @fuzzdb-project
 
 https://github.com/fuzzdb-project/fuzzdb/blob/master/attack/redirect/redirect-urls-template.txt
